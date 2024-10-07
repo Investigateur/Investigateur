@@ -9,6 +9,7 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 ### 🌟 Future Projects
 
 -Soon...
+🤝 I’m open to collaboration on interesting projects!
 
 ### 🌐 Languages
 
