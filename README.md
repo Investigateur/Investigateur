@@ -22,3 +22,4 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 ![Burp](https://img.shields.io/badge/-Burp-FF5722?style=flat-square&logo=burp&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
+![Obsidian](https://img.shields.io/badge/-Obsidian-292D3E?style=flat-square&logo=obsidian)
