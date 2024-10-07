@@ -20,6 +20,6 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Burp](https://img.shields.io/badge/-Burp-FF5722?style=flat-square&logo=burp&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-00BFFF?style=flat-square&logo=nmap&logoColor=white)
+![Nmap](https://nmap.org/images/nmaplogo.png)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-292D3E?style=flat-square&logo=obsidian)
