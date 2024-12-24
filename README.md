@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Investigator.
+## 👋 Hi, I'm 0xShell.
 
 Welcome to my GitHub profile!
 
